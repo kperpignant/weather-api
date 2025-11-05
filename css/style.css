@@ -14,7 +14,21 @@
 body {
   margin: 5% 20% 30% 20%;
   background-color: gray;
+  font-family: 'Press Start 2P', cursive;
+  background: #1e1e1e url('../img/BG.jpg') center/cover no-repeat fixed;
 }
+fieldset {
+  background-color: rgb(128, 159, 0);
+}
+
+h6 {
+  font-size: larger;
+}
+
+button, #wildCard {
+  font-family: 'Press Start 2P', cursive;
+}
+
 
 /******************************************
 /* ADDITIONAL STYLES
